@@ -1,0 +1,24 @@
+! r g b for ball w a A o l 1 2 3 for walls
+! p P s RGB  
+@3      
+#5   
+$All the balls share
+$the same movement
+
+
+zzzzzzzzzzzz         
+z          z         
+zwwwwwwwwwwz         
+zwR      Rwz       
+zwww ww wwwz       
+z  w ww w  z         
+z  w ww w  z        
+z  w ww w  z         
+z  w ww w  z         
+z  w ww w  z         
+z  wrwwrw  z        
+z  wwwwww  z        
+z          z   
+z          z  
+z          z      
+zzzzzzzzzzzz                                    

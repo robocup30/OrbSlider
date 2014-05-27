@@ -1,0 +1,20 @@
+! r g b for ball w a A o l 1 2 3 for walls
+! p P s RGB  
+@7       
+#10      
+zzzzzzzzzzzz         
+z          z         
+z          z         
+z          z       
+z  p    qR z       
+z  s    sR z         
+z  Aw  wA  z        
+z w      w z         
+z  r    r  z         
+z          z         
+z   Q  P   z        
+z  w    w  z        
+z          z   
+z          z  
+z          z      
+zzzzzzzzzzzz                                     

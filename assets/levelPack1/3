@@ -1,0 +1,16 @@
+! r g b for ball w a A o l 1 2 3 for walls
+! p P s RGB
+@6
+#9
+$Going out of bounds will
+$reset the level
+
+
+
+       w
+   w
+   
+     R   w
+   rw
+        w
+   w 
